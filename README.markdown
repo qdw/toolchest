@@ -1,11 +1,11 @@
-toolchest - statically compiled tools for consultants (so far just tmux)
-========================================================================
+toolchest - statically compiled binaries 
+========================================
 
 Summary
 -------
 
-1. Copy the executable to the client box.
-2. Run it.
+1. Copy the executables to the client box.
+2. Run them.
 3. Profit.
 
 Motivation
@@ -17,3 +17,4 @@ into dependency Hell.
 
 Life's too short for that. Just scp a single, statically compiled binary,
 and get on with your work.
+
